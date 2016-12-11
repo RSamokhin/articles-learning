@@ -14,7 +14,6 @@
 |10|[Погружение в технологию блокчейн: Быстрые и безопасные транзакции](https://habrahabr.ru/company/microsoft/blog/312308/)|Habrahabr.ru|08.11.12||
 |11|[Погружение в технологию блокчейн: Экосистема цифровой стоматологии](https://habrahabr.ru/company/microsoft/blog/313130/)|Habrahabr.ru|09.11.12||
 |11|[P2P — Следующий этап развития информационных систем](https://habrahabr.ru/post/239225/)|Habrahabr.ru|09.11.12||
-|11|[Умный контракт](https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82
-)|Wikipedia|10.11.12||
+|12|[Умный контракт](https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82)|Wikipedia|10.11.12||
 
 

@@ -21,4 +21,6 @@
 |14|[Электронная цифровая подпись для чайников: с чем ее есть и как не подавиться. Часть 3](https://habrahabr.ru/post/98323/)|Habrahabr.ru|11.12.16||
 |15|[Как добываются биткоины или что такое майнинг](https://tjournal.ru/p/bitcoin-mining)|TJournal|16.12.16||
 |16|[Сравнение Proof-of-Work и Proof-of-Stake](http://forklog.com/comparing-pow-and-pos/)|Forklog|16.12.16||
+|17|[FAQ Mining](https://bits.media/faq-mining/#whatsmining)|Bits.media|17.12.16||
+
 

@@ -23,4 +23,7 @@
 |16|[Сравнение Proof-of-Work и Proof-of-Stake](http://forklog.com/comparing-pow-and-pos/)|Forklog|16.12.16||
 |17|[FAQ Mining](https://bits.media/faq-mining/#whatsmining)|Bits.media|17.12.16||
 |18|[CAP-ТЕОРЕМА БРЮЕРА](http://softwaremaniacs.org/blog/2010/01/31/brewers-cap-theorem/)|softwaremaniacs|17.12.16||
+|19|[Теорема CAP](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_CAP)|Wikipedia|19.12.16||
+|20|[CAP-теорема простым, доступным языком](https://habrahabr.ru/post/130577/)|Habrahabr.ru|19.12.16||
 
+  

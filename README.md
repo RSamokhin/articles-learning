@@ -25,5 +25,12 @@
 |18|[CAP-ТЕОРЕМА БРЮЕРА](http://softwaremaniacs.org/blog/2010/01/31/brewers-cap-theorem/)|softwaremaniacs|17.12.16||
 |19|[Теорема CAP](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_CAP)|Wikipedia|19.12.16||
 |20|[CAP-теорема простым, доступным языком](https://habrahabr.ru/post/130577/)|Habrahabr.ru|19.12.16||
+|21|[Ethereum](https://ru.wikipedia.org/wiki/Ethereum)|Wikipedia|19.12.16||
+|22|[Майнинг](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3)|Wikipedia|19.12.16||
+|23|[Litecoin](https://ru.wikipedia.org/wiki/Litecoin)|Wikipedia|19.12.16||
+|24|[Двойное расходование](https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D0%B9%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)|Wikipedia|20.12.16||
+|25|[Proof-of-stake](https://ru.wikipedia.org/wiki/Proof-of-stake)|Wikipedia|20.12.16||
+|26|[Доказательство выполнения работы](https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B)|Wikipedia|20.12.16||
+
 
   

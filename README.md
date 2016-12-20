@@ -32,6 +32,7 @@
 |25|[Proof-of-stake](https://ru.wikipedia.org/wiki/Proof-of-stake)|Wikipedia|20.12.16||
 |26|[Доказательство выполнения работы](https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B)|Wikipedia|20.12.16||
 |27|[Новые веяния в криптовалютах: 100% proof-of-stake и Nxt](https://habrahabr.ru/post/207120/)|Habrahabr.ru|20.12.16||
+|28|[Nxt](https://ru.wikipedia.org/wiki/Nxt)|Habrahabr.ru|20.12.16||
 
 
   

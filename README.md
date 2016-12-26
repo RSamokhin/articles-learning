@@ -37,6 +37,6 @@
 |30|[Что такое биткоин](http://coinspot.io/beginners/chto-takoe-bitcoin/)|Сoinspot|23.12.16||
 |31|[Информация для новых пользователей](https://bitcoin.org/ru/how-it-works)|Bitcoin.org|23.12.16||
 |32|[Термминология](https://bitcoin.org/ru/vocabulary)|Bitcoin.org|23.12.16||
+|33|[5 применений блокчейна, которые сформируют наше будущее](http://coinspot.io/news/breaking-news/5-primenenij-blokchejna-kotorye-sformiruyut-nashe-budushhee/)|Сoinspot|27.12.16||
+|34|[21 область применения блокчейна за пределами финансовых услуг](http://coinspot.io/news/breaking-news/21-oblast-primeneniya-blokchejna-za-predelami-finansovyh-uslug/)|Сoinspot|27.12.16||
 
-
-  

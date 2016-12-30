@@ -46,5 +46,5 @@
 |39|[Шифр цезаря](https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D1%84%D1%80_%D0%A6%D0%B5%D0%B7%D0%B0%D1%80%D1%8F)|Wikipedia|30.12.16||
 |40|[Лавинный эффект](https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B2%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82)|Wikipedia|30.12.16||
 |41|[Статистический криптоанализ](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7)|Wikipedia|30.12.16||
-
+|42|[SSL](https://ru.wikipedia.org/wiki/SSL)|Wikipedia|30.12.16||
 

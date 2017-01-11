@@ -55,5 +55,6 @@
 |48|[Задача о византийских генералах](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D0%B2%D0%B8%D0%B7%D0%B0%D0%BD%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D1%85_%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%BE%D0%B2)|Wikipedia|01.01.17||
 |49|[Вычислимость по Тьюрингу, модульность и закон Накамото](http://coinspot.io/analysis/vychislimost-po-tyuringu-modulnost-i-zakon-nakamoto/)|Сoinspot|03.01.17||
 |50|[Тест Тьюринга](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%81%D1%82_%D0%A2%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%B0)|Wikipedia|03.01.17||
+|51|[Блокчейн в 2017 году: год умных контрактов](http://coinspot.io/technology/itrinok/blokchejn-v-2017-godu-god-umnyh-kontraktov)|Сoinspot|12.01.17||
 
 

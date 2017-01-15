@@ -57,5 +57,4 @@
 |50|[Тест Тьюринга](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%81%D1%82_%D0%A2%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%B0)|Wikipedia|03.01.17||
 |51|[Блокчейн в 2017 году: год умных контрактов](http://coinspot.io/technology/itrinok/blokchejn-v-2017-godu-god-umnyh-kontraktov)|Сoinspot|12.01.17||
 |51|[Философия алгоритма «доказательство владения» (Proof of Stake)](http://coinspot.io/analysis/vitalik-buterin-filosofiya-algoritma-dokazatelstvo-vladeniya-proof-of-stake/)|Сoinspot|12.01.17||
-
-
+|52|[Атака double-spending в системе Bitcoin](https://bits.media/double-spending/)|Bits.media|16.01.17||

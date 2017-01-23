@@ -59,4 +59,6 @@
 |51|[Философия алгоритма «доказательство владения» (Proof of Stake)](http://coinspot.io/analysis/vitalik-buterin-filosofiya-algoritma-dokazatelstvo-vladeniya-proof-of-stake/)|Сoinspot|12.01.17||
 |52|[Атака double-spending в системе Bitcoin](https://bits.media/double-spending/)|Bits.media|16.01.17||
 |53|[Цепочка Маркова](https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BF%D1%8C_%D0%9C%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0)|Wikipedia|16.01.17||
+|54|[Ценности блокчейна: средство является сообщением](https://geektimes.ru/company/waves/blog/282352/)|Habrahabr.ru|23.01.17||
+
 

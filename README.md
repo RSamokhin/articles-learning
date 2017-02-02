@@ -65,6 +65,8 @@
 |57|[Репликация без конфликтов: CRDT в теории и на практике](https://habrahabr.ru/post/272987/)|Habrahabr.ru|01.02.17||
 |58|[Дифференциальный криптоанализ для чайников](https://habrahabr.ru/post/215527/)|Habrahabr.ru|01.02.17||
 |59|[Распределённая хеш-таблица](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%85%D0%B5%D1%88-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0)|Wikipedia|02.02.17||
+|60|[Анализ криптовалюты биткоин и её положения в мире](http://coinspot.io/analysis/analiz-kriptovalyuty-bitcoin-i-eyo-polozheniya-v-mire/)|Сoinspot|02.02.17||
+
 
 
 

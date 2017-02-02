@@ -67,6 +67,8 @@
 |59|[Распределённая хеш-таблица](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%85%D0%B5%D1%88-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0)|Wikipedia|02.02.17||
 |60|[Анализ криптовалюты биткоин и её положения в мире](http://coinspot.io/analysis/analiz-kriptovalyuty-bitcoin-i-eyo-polozheniya-v-mire/)|Сoinspot|02.02.17||
 |61|[Блокчейн вынуждает пересмотреть подход к межбанковским операциям](https://geektimes.ru/company/waves/blog/284924/)|Habrahabr.ru|02.02.17||
-
+|62|[Блочный шифр](https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D1%88%D0%B8%D1%84%D1%80)|Wikipedia|02.02.17||
+|63|[Сложение по модулю 2](https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE_%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8E_2)|Wikipedia|02.02.17||
+|64|[Шифр Вернама](https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D1%84%D1%80_%D0%92%D0%B5%D1%80%D0%BD%D0%B0%D0%BC%D0%B0)|Wikipedia|02.02.17||
 
 

@@ -74,5 +74,10 @@
 |66|[Режим электронной кодовой книги](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BA%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8)|Wikipedia|05.02.17||
 |67|[Режим шифрования](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC_%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)|Wikipedia|05.02.17||
 |68|[Delegated Proof-of-Stake Consensus](https://bitshares.org/technology/delegated-proof-of-stake-consensus/)|Bitshares|05.02.17||
+|69|[Объяснение блокчейна для веб-разработчиков](https://habrahabr.ru/post/323128/)|Habrahabr.ru|17.03.17||
+|70|[Блокчейн в 200 строк кода](https://habrahabr.ru/post/323586/)|Habrahabr.ru|17.03.17||
+|71|[Что такое блокчейн и зачем он нужен](https://habrahabr.ru/company/bitfury/blog/321474/)|Habrahabr.ru|17.03.17||
+|71|[Самое понятное объяснение принципа работы блокчейна](https://tjournal.ru/41306-samoe-ponyatnoe-obyasnenie-principa-raboti-blokcheina)|TJournal.ru|17.03.17||
+
 
 

@@ -78,6 +78,8 @@
 |70|[Блокчейн в 200 строк кода](https://habrahabr.ru/post/323586/)|Habrahabr.ru|17.03.17||
 |71|[Что такое блокчейн и зачем он нужен](https://habrahabr.ru/company/bitfury/blog/321474/)|Habrahabr.ru|17.03.17||
 |72|[Самое понятное объяснение принципа работы блокчейна](https://tjournal.ru/41306-samoe-ponyatnoe-obyasnenie-principa-raboti-blokcheina)|TJournal.ru|17.03.17||
+|73|[How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE&feature=youtu.be)|Youtube|18.03.17||
+
 
 
 
